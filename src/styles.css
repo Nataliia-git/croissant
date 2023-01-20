@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: rgb(242, 206, 65);
+}
+
+a {
+  color: green;
+}
+.links {
+  display: flex;
+  justify-content: center;
+}
+.links div {
+  margin: 0 10px;
+}
+img {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.blue-link {
+  color: blue;
+}
